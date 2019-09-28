@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phutohxoh.laggner.at/sitemap.xml
